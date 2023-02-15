@@ -1,0 +1,15 @@
+ **************    Very simple Book store               ****************
+
+ Steps:
+ 1. Make sure to install psycopg2 
+ 2. Make sure to install venv in your project 
+ 3. install psycopg2 and maskpass
+ 4. Make sure to create table in database is name book 
+ 5. Make sure to connect with database before start 
+ 6. Be enjoyed when coding
+
+ Python 3.8 and above 
+
+ psycopg2 : pip install psycopg2
+
+ maskpass : pip install maskpass
